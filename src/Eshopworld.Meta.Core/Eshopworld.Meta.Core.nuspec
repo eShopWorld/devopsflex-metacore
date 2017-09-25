@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Eshopworld.MetaCore</id>
+    <id>Eshopworld.Meta.Core</id>
     <version>1.0.0</version>
     <authors>eShopWorld</authors>
     <owners>eShopWorld</owners>

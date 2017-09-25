@@ -1,4 +1,4 @@
-﻿namespace Eshopworld.MetaCore
+﻿namespace Eshopworld.Meta.Core
 {
     /// <summary>
     /// Base interface for any interface that represents a code customization option.
