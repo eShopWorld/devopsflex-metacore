@@ -5,7 +5,7 @@
     <AssemblyName>Eshopworld.Meta.Core</AssemblyName>
     <RootNamespace>Eshopworld.Meta.Core</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>EshopWorld.Meta.Core</PackageId>
+    <PackageId>Eshopworld.Meta.Core</PackageId>
     <Authors>eShopWorld</Authors>
     <Company>eShopWorld</Company>
     <Product>Eshopworld.Meta.Core</Product>
