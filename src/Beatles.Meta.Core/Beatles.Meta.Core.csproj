@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Eshopworld.Meta.Core</AssemblyName>
-    <RootNamespace>Eshopworld.Meta.Core</RootNamespace>
+    <AssemblyName>Beatles.Meta.Core</AssemblyName>
+    <RootNamespace>Beatles.Meta.Core</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>Eshopworld.Meta.Core</PackageId>
+    <PackageId>Beatles.Meta.Core</PackageId>
     <Authors>eShopWorld</Authors>
     <Company>eShopWorld</Company>
-    <Product>Eshopworld.Meta.Core</Product>
+    <Product>Beatles.Meta.Core</Product>
     <Description>core portion of eShopWorld meta package for brands, service levels, countries and currencies</Description>
     <Copyright>Copyright 2017</Copyright>
     <PackageTags>core, meta, metadata, brands, service levels, countries, currencies</PackageTags>

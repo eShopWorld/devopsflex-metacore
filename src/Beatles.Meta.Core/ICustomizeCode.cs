@@ -1,4 +1,4 @@
-﻿namespace Eshopworld.Meta.Core
+﻿namespace Beatles.Meta.Core
 {
     /// <summary>
     /// Base interface for any interface that represents a code customization option.
