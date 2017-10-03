@@ -1,4 +1,4 @@
-﻿namespace Eshopworld.Meta.Core
+﻿namespace Beatles.Meta.Core
 {
     /// <summary>
     /// Represents a customized version for a the specific <typeparamref name="T" /> country.
