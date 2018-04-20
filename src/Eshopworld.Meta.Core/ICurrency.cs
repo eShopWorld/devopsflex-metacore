@@ -1,4 +1,4 @@
-﻿namespace Beatles.Meta.Core
+﻿namespace Eshopworld.Meta.Core
 {
     /// <summary>
     ///  Represents a customized version for a the specific <typeparamref name="T" /> currency.
