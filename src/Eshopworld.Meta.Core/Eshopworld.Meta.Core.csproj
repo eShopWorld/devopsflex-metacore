@@ -2,16 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+
+    <IsPackable>true</IsPackable>
     <PackageId>Eshopworld.Meta.Core</PackageId>
-    <Authors>eShopWorld</Authors>
+    <Title>Eshoworld Metadata Contracts</Title>
+    <Description>Core part of eShopWorld meta package for brands, service levels, countries and currencies</Description>
+    <Authors>David Rodrigues</Authors>
     <Company>eShopWorld</Company>
     <Product>Eshopworld.Meta.Core</Product>
-    <Description>Core part of eShopWorld meta package for brands, service levels, countries and currencies</Description>
-    <Copyright>Copyright 2017</Copyright>
+    <Copyright>Copyright 2018</Copyright>
     <PackageTags>core, meta, metadata, brands, service levels, countries, currencies</PackageTags>
+    <PackageReleaseNotes>Rebranded 'Brand' into 'Tenant'</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/eShopWorld/meta-core</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/eShopWorld/meta-core/blob/master/LICENSE</PackageLicenseUrl>
 
-    <Version>1.0.0</Version>
+    <IncludeSymbols>true</IncludeSymbols>
+    <IncludeSource>true</IncludeSource>
+
+    <Version>3.0.0</Version>
   </PropertyGroup>
 
 </Project>
